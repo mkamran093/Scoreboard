@@ -15,6 +15,7 @@
 }
 
 #heading {
+  text-align: center;
   height: 60px;
   width: auto;
 }
@@ -23,7 +24,6 @@ h1 {
   font-size: 65px;
   color: white;
   font-family: Arial;
-  padding-left: 50px;
   font-weight: 900;
   margin-top: 10px;
 }
